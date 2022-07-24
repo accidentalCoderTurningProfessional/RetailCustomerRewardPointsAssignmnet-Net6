@@ -1,0 +1,7 @@
+2022-07-25 00:15:24.492 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-07-25 00:15:24.558 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44376/swagger/index.html - -
+2022-07-25 00:15:24.581 +05:30 [INF] Hosting environment: Development
+2022-07-25 00:15:24.583 +05:30 [INF] Content root path: E:\newfolder\RetailCustomerBonusCalculator\
+2022-07-25 00:15:26.944 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44376/swagger/index.html - - - 200 - text/html;charset=utf-8 2399.3412ms
+2022-07-25 00:15:27.272 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44376/swagger/v1/swagger.json - -
+2022-07-25 00:15:27.575 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44376/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 303.3413ms

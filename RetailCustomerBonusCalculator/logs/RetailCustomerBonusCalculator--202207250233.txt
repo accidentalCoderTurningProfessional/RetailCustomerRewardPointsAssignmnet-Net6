@@ -1,0 +1,12 @@
+2022-07-25 02:33:23.658 +05:30 [INF] Now listening on: https://localhost:7231
+2022-07-25 02:33:23.859 +05:30 [INF] Now listening on: http://localhost:5231
+2022-07-25 02:33:23.868 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-07-25 02:33:23.868 +05:30 [INF] Hosting environment: Development
+2022-07-25 02:33:23.868 +05:30 [INF] Content root path: E:\newfolder\RetailCustomerBonusCalculator\
+2022-07-25 02:33:25.433 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7231/swagger/index.html - -
+2022-07-25 02:33:27.353 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7231/swagger/index.html - - - 200 - text/html;charset=utf-8 1944.0681ms
+2022-07-25 02:33:29.020 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7231/swagger/v1/swagger.json - -
+2022-07-25 02:33:29.592 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7231/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 572.1266ms
+2022-07-25 02:33:37.692 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7231/api/CustomerBonus/GetAllCustomersTransactions?numberOfMonths=1 - -
+2022-07-25 02:33:37.740 +05:30 [INF] Executing endpoint 'RetailCustomerBonusCalculator.Controllers.CustomerBonusController.GetAllCustomersTransactions (RetailCustomerBonusCalculator)'
+2022-07-25 02:33:37.793 +05:30 [INF] Route matched with {action = "GetAllCustomersTransactions", controller = "CustomerBonus"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllCustomersTransactions(Int32) on controller RetailCustomerBonusCalculator.Controllers.CustomerBonusController (RetailCustomerBonusCalculator).

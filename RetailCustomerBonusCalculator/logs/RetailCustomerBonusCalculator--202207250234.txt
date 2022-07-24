@@ -1,0 +1,13 @@
+2022-07-25 02:34:13.222 +05:30 [ERR] Object reference not set to an instance of an object.
+2022-07-25 02:34:13.226 +05:30 [ERR] System.NullReferenceException: Object reference not set to an instance of an object.
+   at DataAccessLayerService.SqlHelper.GetTransactionForAllCustomers(Int32 numberOfMonths) in E:\newfolder\RetailCustomerBonusCalculator\DataAccessLayerService\Helper\SqlHelper.cs:line 35
+   at DataAccessLayerService.CustomerTransactionDataRepository.GetAllTransaction(Int32 numberOfMonths) in E:\newfolder\RetailCustomerBonusCalculator\DataAccessLayerService\Respository\CustomerTransactionDataRepository.cs:line 38
+   at DataAccessLayerService.CustomerTransactionDataRepository.GetAllCustomersTransactions(Int32 numberOfMonths) in E:\newfolder\RetailCustomerBonusCalculator\DataAccessLayerService\Respository\CustomerTransactionDataRepository.cs:line 10
+   at BusinessService.CustomerDataService.GetAllCustomersTransactions(Int32 numberOfMonths) in E:\newfolder\RetailCustomerBonusCalculator\BusinessService\CustomerDataService.cs:line 20
+   at BusinessService.CustomerDataService.<>c__DisplayClass5_0.<<GetAllCustomersRewardPointsData>b__0>d.MoveNext() in E:\newfolder\RetailCustomerBonusCalculator\BusinessService\CustomerDataService.cs:line 45
+--- End of stack trace from previous location ---
+   at BusinessService.ServiceResponse.ResponseHelpers.GetServiceResponseAsync[TAsync,TContent](Func`1 responseResultCallback, Func`2 contentCallback, String failureMessage) in E:\newfolder\RetailCustomerBonusCalculator\BusinessService\ServiceResponse\ResponseHelper.cs:line 20
+2022-07-25 02:34:13.251 +05:30 [INF] Executing OkObjectResult, writing value of type 'BusinessService.ServiceResponse.ServiceResponseOf`1[[System.Collections.Generic.IEnumerable`1[[BusinessService.Models.CustomerTransactionWithBonus, BusinessService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2022-07-25 02:34:13.289 +05:30 [INF] Executed action RetailCustomerBonusCalculator.Controllers.CustomerBonusController.GetAllCustomersTransactions (RetailCustomerBonusCalculator) in 35474.4844ms
+2022-07-25 02:34:13.297 +05:30 [INF] Executed endpoint 'RetailCustomerBonusCalculator.Controllers.CustomerBonusController.GetAllCustomersTransactions (RetailCustomerBonusCalculator)'
+2022-07-25 02:34:13.298 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7231/api/CustomerBonus/GetAllCustomersTransactions?numberOfMonths=1 - - - 200 - application/json;+charset=utf-8 35605.5268ms

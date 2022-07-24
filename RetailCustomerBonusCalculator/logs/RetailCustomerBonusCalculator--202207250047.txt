@@ -1,0 +1,13 @@
+2022-07-25 00:47:32.278 +05:30 [INF] Now listening on: https://localhost:7231
+2022-07-25 00:47:32.364 +05:30 [INF] Now listening on: http://localhost:5231
+2022-07-25 00:47:32.370 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-07-25 00:47:32.370 +05:30 [INF] Hosting environment: Development
+2022-07-25 00:47:32.371 +05:30 [INF] Content root path: E:\newfolder\RetailCustomerBonusCalculator\
+2022-07-25 00:47:33.464 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7231/chrome - -
+2022-07-25 00:47:33.873 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7231/chrome - - - 404 0 - 422.0280ms
+2022-07-25 00:47:40.660 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7231/health - -
+2022-07-25 00:47:40.676 +05:30 [INF] Executing endpoint 'Health checks'
+2022-07-25 00:47:40.702 +05:30 [INF] Executed endpoint 'Health checks'
+2022-07-25 00:47:40.702 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7231/health - - - 200 - text/plain 42.5687ms
+2022-07-25 00:47:40.812 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7231/favicon.ico - -
+2022-07-25 00:47:40.813 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7231/favicon.ico - - - 404 0 - 1.4624ms

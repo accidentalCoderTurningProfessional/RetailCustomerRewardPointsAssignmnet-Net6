@@ -1,0 +1,31 @@
+2022-07-24 23:07:16.164 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-07-24 23:07:16.299 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44376/swagger/index.html - -
+2022-07-24 23:07:16.348 +05:30 [INF] Hosting environment: Development
+2022-07-24 23:07:16.352 +05:30 [INF] Content root path: E:\newfolder\RetailCustomerBonusCalculator\
+2022-07-24 23:07:18.133 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44376/swagger/index.html - - - 200 - text/html;charset=utf-8 1790.0373ms
+2022-07-24 23:07:18.566 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44376/swagger/v1/swagger.json - -
+2022-07-24 23:07:18.861 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44376/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 287.4259ms
+2022-07-24 23:07:25.709 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44376/apiCustomerBonus/GetAllCustomersTransactions?numberOfMonths=2 - -
+2022-07-24 23:07:25.893 +05:30 [INF] Executing endpoint 'RetailCustomerBonusCalculator.Controllers.CustomerBonusController.GetAllCustomersTransactions (RetailCustomerBonusCalculator)'
+2022-07-24 23:07:25.972 +05:30 [INF] Route matched with {action = "GetAllCustomersTransactions", controller = "CustomerBonus"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllCustomersTransactions(Int32) on controller RetailCustomerBonusCalculator.Controllers.CustomerBonusController (RetailCustomerBonusCalculator).
+2022-07-24 23:07:26.538 +05:30 [INF] Succefully pulled data for All the Customers for last  2 months
+2022-07-24 23:07:26.550 +05:30 [INF] Executing OkObjectResult, writing value of type 'BusinessService.ServiceResponse.ServiceResponseOf`1[[System.Collections.Generic.IEnumerable`1[[BusinessService.Models.CustomerTransactionWithBonus, RetailCustomerBonusCalculator, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2022-07-24 23:07:26.577 +05:30 [INF] Executed action RetailCustomerBonusCalculator.Controllers.CustomerBonusController.GetAllCustomersTransactions (RetailCustomerBonusCalculator) in 597.6225ms
+2022-07-24 23:07:26.580 +05:30 [INF] Executed endpoint 'RetailCustomerBonusCalculator.Controllers.CustomerBonusController.GetAllCustomersTransactions (RetailCustomerBonusCalculator)'
+2022-07-24 23:07:26.580 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44376/apiCustomerBonus/GetAllCustomersTransactions?numberOfMonths=2 - - - 200 - application/json;+charset=utf-8 871.2507ms
+2022-07-24 23:07:33.751 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44376/apiCustomerBonus/GetAllCustomersTransactions?numberOfMonths=1 - -
+2022-07-24 23:07:33.754 +05:30 [INF] Executing endpoint 'RetailCustomerBonusCalculator.Controllers.CustomerBonusController.GetAllCustomersTransactions (RetailCustomerBonusCalculator)'
+2022-07-24 23:07:33.754 +05:30 [INF] Route matched with {action = "GetAllCustomersTransactions", controller = "CustomerBonus"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllCustomersTransactions(Int32) on controller RetailCustomerBonusCalculator.Controllers.CustomerBonusController (RetailCustomerBonusCalculator).
+2022-07-24 23:07:33.765 +05:30 [INF] Succefully pulled data for All the Customers for last  1 months
+2022-07-24 23:07:33.765 +05:30 [INF] Executing OkObjectResult, writing value of type 'BusinessService.ServiceResponse.ServiceResponseOf`1[[System.Collections.Generic.IEnumerable`1[[BusinessService.Models.CustomerTransactionWithBonus, RetailCustomerBonusCalculator, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2022-07-24 23:07:33.766 +05:30 [INF] Executed action RetailCustomerBonusCalculator.Controllers.CustomerBonusController.GetAllCustomersTransactions (RetailCustomerBonusCalculator) in 11.6236ms
+2022-07-24 23:07:33.766 +05:30 [INF] Executed endpoint 'RetailCustomerBonusCalculator.Controllers.CustomerBonusController.GetAllCustomersTransactions (RetailCustomerBonusCalculator)'
+2022-07-24 23:07:33.766 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44376/apiCustomerBonus/GetAllCustomersTransactions?numberOfMonths=1 - - - 200 - application/json;+charset=utf-8 14.8628ms
+2022-07-24 23:07:47.210 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44376/apiCustomerBonus/GetAllCustomersTransactions?numberOfMonths=2 - -
+2022-07-24 23:07:47.211 +05:30 [INF] Executing endpoint 'RetailCustomerBonusCalculator.Controllers.CustomerBonusController.GetAllCustomersTransactions (RetailCustomerBonusCalculator)'
+2022-07-24 23:07:47.211 +05:30 [INF] Route matched with {action = "GetAllCustomersTransactions", controller = "CustomerBonus"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllCustomersTransactions(Int32) on controller RetailCustomerBonusCalculator.Controllers.CustomerBonusController (RetailCustomerBonusCalculator).
+2022-07-24 23:07:47.224 +05:30 [INF] Succefully pulled data for All the Customers for last  2 months
+2022-07-24 23:07:47.224 +05:30 [INF] Executing OkObjectResult, writing value of type 'BusinessService.ServiceResponse.ServiceResponseOf`1[[System.Collections.Generic.IEnumerable`1[[BusinessService.Models.CustomerTransactionWithBonus, RetailCustomerBonusCalculator, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2022-07-24 23:07:47.225 +05:30 [INF] Executed action RetailCustomerBonusCalculator.Controllers.CustomerBonusController.GetAllCustomersTransactions (RetailCustomerBonusCalculator) in 14.1856ms
+2022-07-24 23:07:47.225 +05:30 [INF] Executed endpoint 'RetailCustomerBonusCalculator.Controllers.CustomerBonusController.GetAllCustomersTransactions (RetailCustomerBonusCalculator)'
+2022-07-24 23:07:47.225 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44376/apiCustomerBonus/GetAllCustomersTransactions?numberOfMonths=2 - - - 200 - application/json;+charset=utf-8 14.7673ms

@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/bin/Debug/net6.0
+/.vs/RetailCustomerBonusCalculator
+/BusinessService/bin/Debug/net6.0
+/BusinessService/obj
+/DataAccessLayerService/bin/Debug/net6.0
+/DataAccessLayerService/obj
+/obj

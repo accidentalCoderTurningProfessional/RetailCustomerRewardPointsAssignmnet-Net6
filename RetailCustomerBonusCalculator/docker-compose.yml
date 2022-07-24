@@ -1,0 +1,15 @@
+version: '3.4'
+
+services:
+    sqlDb:
+        image: mcr.microsoft.com/mssql/server:2019-latest
+        environment:
+            - SA_PASSWORD=sa*admin
+            - ACCEPT_EULA=Y
+        ports:
+            - "1440:1433"
+    retailcustomerbonuscalculator:
+        image: ${DOCKER_REGISTRY-}retailcustomerbonuscalculator
+        build:
+          context: .
+          dockerfile: Dockerfile
