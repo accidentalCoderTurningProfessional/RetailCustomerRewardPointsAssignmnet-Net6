@@ -1,9 +1,9 @@
-﻿using BusinessService;
-using BusinessService.Models;
-using BusinessService.ServiceResponse;
-using Microsoft.AspNetCore.Authorization;
+﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using NSwag.Annotations;
+using RetailCustomerBonusCalculator.BusinessService;
+using RetailCustomerBonusCalculator.BusinessService.Models;
+using RetailCustomerBonusCalculator.BusinessService.ServiceResponse;
 
 namespace RetailCustomerBonusCalculator.Controllers
 {
@@ -31,7 +31,6 @@ namespace RetailCustomerBonusCalculator.Controllers
         [SwaggerResponse(StatusCodes.Status400BadRequest, typeof(List<string>), Description = "Bad request")]
         public async Task<IActionResult> GetAllCustomersTransactions(int numberOfMonths)
         {
-            if (numberOfMonths == null) { throw new ArgumentNullException(nameof(numberOfMonths)); }
             try
             {
                 var result = await customerDataService.GetAllCustomersRewardPointsData(numberOfMonths);
@@ -45,13 +44,13 @@ namespace RetailCustomerBonusCalculator.Controllers
                     this._logger.LogInformation($"Succefully pulled data for All the Customers for last  { numberOfMonths} months");
                 }
                 return Ok(result);
-            }            
+            }
             catch (Exception ex)
             {
                 this._logger.LogError(ex.Message);
                 return BadRequest();
             }
-}
+        }
 
         /// <summary>
         /// Gets the transaction amount and corresponding reward points for a single customer
@@ -65,12 +64,12 @@ namespace RetailCustomerBonusCalculator.Controllers
         [SwaggerResponse(StatusCodes.Status400BadRequest, typeof(List<string>), Description = "Bad request")]
         public async Task<IActionResult> GetACustomerTransaction(string mobileNumber, int numberOfMonths)
         {
-            if (numberOfMonths == null) { throw new ArgumentNullException(nameof(numberOfMonths)); }
-        try
-        {
+            if (mobileNumber == null) { throw new ArgumentNullException(nameof(mobileNumber)); }
+            try
+            {
 
-             var result = await customerDataService.GetSingleCustomerRewardPointsData(mobileNumber, numberOfMonths);
-                if(result?.Status == ServiceResponseWrapper.ResponseStatuses.Error)
+                var result = await customerDataService.GetSingleCustomerRewardPointsData(mobileNumber, numberOfMonths);
+                if (result?.Status == ServiceResponseWrapper.ResponseStatuses.Error)
                 {
                     this._logger.LogError(result.ErrorSummary);
                     this._logger.LogError(result.Errors[0]);
@@ -81,14 +80,14 @@ namespace RetailCustomerBonusCalculator.Controllers
                 }
                 return Ok(result);
 
-        }
-        catch (Exception ex)
-        {
+            }
+            catch (Exception ex)
+            {
 
                 this._logger.LogError(ex.Message);
                 return BadRequest();
-        }
-           
+            }
+
         }
 
     }
