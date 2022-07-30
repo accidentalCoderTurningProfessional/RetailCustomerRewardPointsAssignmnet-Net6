@@ -1,5 +1,5 @@
-using BusinessService;
-using DataAccessLayerService;
+using RetailCustomerBonusCalculator.BusinessService;
+using RetailCustomerBonusCalculator.DataAccessService;
 using Serilog;
 using ILogger = Serilog.ILogger;
 

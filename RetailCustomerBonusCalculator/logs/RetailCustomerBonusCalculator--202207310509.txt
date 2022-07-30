@@ -1,0 +1,11 @@
+2022-07-31 05:09:00.508 +05:30 [INF] Now listening on: http://localhost:5000
+2022-07-31 05:09:00.543 +05:30 [INF] Now listening on: https://localhost:5001
+2022-07-31 05:09:00.546 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-07-31 05:09:00.547 +05:30 [INF] Hosting environment: Production
+2022-07-31 05:09:00.547 +05:30 [INF] Content root path: C:\Users\nakunlamba\Desktop\RetailCustomerRewardPointsAssignmnet-Net6\RetailCustomerBonusCalculator\
+2022-07-31 05:09:04.785 +05:30 [INF] Application is shutting down...
+2022-07-31 05:09:12.196 +05:30 [INF] Now listening on: https://localhost:7231
+2022-07-31 05:09:12.226 +05:30 [INF] Now listening on: http://localhost:5231
+2022-07-31 05:09:12.229 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-07-31 05:09:12.229 +05:30 [INF] Hosting environment: Development
+2022-07-31 05:09:12.229 +05:30 [INF] Content root path: C:\Users\nakunlamba\Desktop\RetailCustomerRewardPointsAssignmnet-Net6\RetailCustomerBonusCalculator\

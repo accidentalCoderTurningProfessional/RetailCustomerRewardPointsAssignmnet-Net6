@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/RetailCustomerBonusCalculator/v17
+/.vs/RetailCustomerBonusCalculator/DesignTimeBuild
+/RetailCustomerBonusCalculator/bin/Debug
+/RetailCustomerBonusCalculator.BusinessService/obj
+/RetailCustomerBonusCalculator.DataAccessService/bin/Debug/net6.0
+/RetailCustomerBonusCalculator.DataAccessService/obj
+/RetailCustomerBonusCalculator.UnitTests/bin/Debug/net6.0
+/RetailCustomerBonusCalculator.UnitTests/obj

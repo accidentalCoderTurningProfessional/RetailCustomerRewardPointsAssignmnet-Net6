@@ -1,0 +1,5 @@
+2022-07-31 05:13:09.699 +05:30 [INF] Now listening on: https://localhost:7231
+2022-07-31 05:13:09.729 +05:30 [INF] Now listening on: http://localhost:5231
+2022-07-31 05:13:09.731 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-07-31 05:13:09.732 +05:30 [INF] Hosting environment: Development
+2022-07-31 05:13:09.732 +05:30 [INF] Content root path: C:\Users\nakunlamba\Desktop\RetailCustomerRewardPointsAssignmnet-Net6\RetailCustomerBonusCalculator\

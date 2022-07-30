@@ -1,0 +1,689 @@
+{
+  "content": [
+    {
+      "rewardPoints": 268.5034,
+      "customerName": "Customer-41",
+      "customerMobileNumber": "8345400460",
+      "customerId": 41,
+      "amount": 209.2517
+    },
+    {
+      "rewardPoints": 5196.3264,
+      "customerName": "Customer-33",
+      "customerMobileNumber": "8345400736",
+      "customerId": 33,
+      "amount": 2673.1632
+    },
+    {
+      "rewardPoints": 3974.8538,
+      "customerName": "Customer-1",
+      "customerMobileNumber": "8345402444",
+      "customerId": 1,
+      "amount": 2062.4269
+    },
+    {
+      "rewardPoints": 381.9496,
+      "customerName": "Customer-75",
+      "customerMobileNumber": "8345403982",
+      "customerId": 75,
+      "amount": 265.9748
+    },
+    {
+      "rewardPoints": 3319.136,
+      "customerName": "Customer-44",
+      "customerMobileNumber": "8345404614",
+      "customerId": 44,
+      "amount": 1734.568
+    },
+    {
+      "rewardPoints": 1420.6634,
+      "customerName": "Customer-83",
+      "customerMobileNumber": "8345406974",
+      "customerId": 83,
+      "amount": 785.3317
+    },
+    {
+      "rewardPoints": 3155.2384,
+      "customerName": "Customer-12",
+      "customerMobileNumber": "8345406998",
+      "customerId": 12,
+      "amount": 1652.6192
+    },
+    {
+      "rewardPoints": 3064.488,
+      "customerName": "Customer-88",
+      "customerMobileNumber": "8345407216",
+      "customerId": 88,
+      "amount": 1607.244
+    },
+    {
+      "rewardPoints": 4154.7478,
+      "customerName": "Customer-50",
+      "customerMobileNumber": "8345407371",
+      "customerId": 50,
+      "amount": 2152.3739
+    },
+    {
+      "rewardPoints": 3463.8526,
+      "customerName": "Customer-23",
+      "customerMobileNumber": "8345408089",
+      "customerId": 23,
+      "amount": 1806.9263
+    },
+    {
+      "rewardPoints": 6059.7748,
+      "customerName": "Customer-79",
+      "customerMobileNumber": "8345408127",
+      "customerId": 79,
+      "amount": 3104.8874
+    },
+    {
+      "rewardPoints": 5300.7792,
+      "customerName": "Customer-45",
+      "customerMobileNumber": "8345408442",
+      "customerId": 45,
+      "amount": 2725.3896
+    },
+    {
+      "rewardPoints": 2321.6184,
+      "customerName": "Customer-10",
+      "customerMobileNumber": "8345411535",
+      "customerId": 10,
+      "amount": 1235.8092
+    },
+    {
+      "rewardPoints": 3397.525,
+      "customerName": "Customer-77",
+      "customerMobileNumber": "8345412276",
+      "customerId": 77,
+      "amount": 1773.7625
+    },
+    {
+      "rewardPoints": 5253.3914,
+      "customerName": "Customer-9",
+      "customerMobileNumber": "8345412977",
+      "customerId": 9,
+      "amount": 2701.6957
+    },
+    {
+      "rewardPoints": 2359.501,
+      "customerName": "Customer-56",
+      "customerMobileNumber": "8345413792",
+      "customerId": 56,
+      "amount": 1254.7505
+    },
+    {
+      "rewardPoints": 1929.0666,
+      "customerName": "Customer-68",
+      "customerMobileNumber": "8345413806",
+      "customerId": 68,
+      "amount": 1039.5333
+    },
+    {
+      "rewardPoints": 3472.8388,
+      "customerName": "Customer-3",
+      "customerMobileNumber": "8345414128",
+      "customerId": 3,
+      "amount": 1811.4194
+    },
+    {
+      "rewardPoints": 4616.5082,
+      "customerName": "Customer-63",
+      "customerMobileNumber": "8345417368",
+      "customerId": 63,
+      "amount": 2383.2541
+    },
+    {
+      "rewardPoints": 3087.5854,
+      "customerName": "Customer-55",
+      "customerMobileNumber": "8345417496",
+      "customerId": 55,
+      "amount": 1618.7927
+    },
+    {
+      "rewardPoints": 2703.8508,
+      "customerName": "Customer-42",
+      "customerMobileNumber": "8345418157",
+      "customerId": 42,
+      "amount": 1426.9254
+    },
+    {
+      "rewardPoints": 6002.6318,
+      "customerName": "Customer-87",
+      "customerMobileNumber": "8345418365",
+      "customerId": 87,
+      "amount": 3076.3159
+    },
+    {
+      "rewardPoints": 3058.4002,
+      "customerName": "Customer-14",
+      "customerMobileNumber": "8345419372",
+      "customerId": 14,
+      "amount": 1604.2001
+    },
+    {
+      "rewardPoints": 9144.969,
+      "customerName": "Customer-17",
+      "customerMobileNumber": "8345419698",
+      "customerId": 17,
+      "amount": 4647.4845
+    },
+    {
+      "rewardPoints": 3822.4674,
+      "customerName": "Customer-94",
+      "customerMobileNumber": "8345420504",
+      "customerId": 94,
+      "amount": 1986.2337
+    },
+    {
+      "rewardPoints": 9258.8506,
+      "customerName": "Customer-4",
+      "customerMobileNumber": "8345422055",
+      "customerId": 4,
+      "amount": 4704.4253
+    },
+    {
+      "rewardPoints": 5593.128,
+      "customerName": "Customer-70",
+      "customerMobileNumber": "8345422695",
+      "customerId": 70,
+      "amount": 2871.564
+    },
+    {
+      "rewardPoints": 4626.2642,
+      "customerName": "Customer-57",
+      "customerMobileNumber": "8345423000",
+      "customerId": 57,
+      "amount": 2388.1321
+    },
+    {
+      "rewardPoints": 3449.141,
+      "customerName": "Customer-38",
+      "customerMobileNumber": "8345423108",
+      "customerId": 38,
+      "amount": 1799.5705
+    },
+    {
+      "rewardPoints": 2951.7376,
+      "customerName": "Customer-65",
+      "customerMobileNumber": "8345424380",
+      "customerId": 65,
+      "amount": 1550.8688
+    },
+    {
+      "rewardPoints": 3198.565,
+      "customerName": "Customer-96",
+      "customerMobileNumber": "8345425609",
+      "customerId": 96,
+      "amount": 1674.2825
+    },
+    {
+      "rewardPoints": 2353.7474,
+      "customerName": "Customer-99",
+      "customerMobileNumber": "8345426671",
+      "customerId": 99,
+      "amount": 1251.8737
+    },
+    {
+      "rewardPoints": 2881.683,
+      "customerName": "Customer-52",
+      "customerMobileNumber": "8345432061",
+      "customerId": 52,
+      "amount": 1515.8415
+    },
+    {
+      "rewardPoints": 6001.3824,
+      "customerName": "Customer-2",
+      "customerMobileNumber": "8345432287",
+      "customerId": 2,
+      "amount": 3075.6912
+    },
+    {
+      "rewardPoints": 3880.2726,
+      "customerName": "Customer-47",
+      "customerMobileNumber": "8345432513",
+      "customerId": 47,
+      "amount": 2015.1363
+    },
+    {
+      "rewardPoints": 2464.38,
+      "customerName": "Customer-24",
+      "customerMobileNumber": "8345433648",
+      "customerId": 24,
+      "amount": 1307.19
+    },
+    {
+      "rewardPoints": 3176.3926,
+      "customerName": "Customer-64",
+      "customerMobileNumber": "8345434639",
+      "customerId": 64,
+      "amount": 1663.1963
+    },
+    {
+      "rewardPoints": 6357.243,
+      "customerName": "Customer-37",
+      "customerMobileNumber": "8345435968",
+      "customerId": 37,
+      "amount": 3253.6215
+    },
+    {
+      "rewardPoints": 6901.3344,
+      "customerName": "Customer-62",
+      "customerMobileNumber": "8345436193",
+      "customerId": 62,
+      "amount": 3525.6672
+    },
+    {
+      "rewardPoints": 3141.2736,
+      "customerName": "Customer-90",
+      "customerMobileNumber": "8345436809",
+      "customerId": 90,
+      "amount": 1645.6368
+    },
+    {
+      "rewardPoints": 4214.2658,
+      "customerName": "Customer-20",
+      "customerMobileNumber": "8345436955",
+      "customerId": 20,
+      "amount": 2182.1329
+    },
+    {
+      "rewardPoints": 5981.7194,
+      "customerName": "Customer-66",
+      "customerMobileNumber": "8345436957",
+      "customerId": 66,
+      "amount": 3065.8597
+    },
+    {
+      "rewardPoints": 2602.6382,
+      "customerName": "Customer-72",
+      "customerMobileNumber": "8345436996",
+      "customerId": 72,
+      "amount": 1376.3191
+    },
+    {
+      "rewardPoints": 4714.2972,
+      "customerName": "Customer-40",
+      "customerMobileNumber": "8345438051",
+      "customerId": 40,
+      "amount": 2432.1486
+    },
+    {
+      "rewardPoints": 1709.2322,
+      "customerName": "Customer-31",
+      "customerMobileNumber": "8345440899",
+      "customerId": 31,
+      "amount": 929.6161
+    },
+    {
+      "rewardPoints": 3722.4668,
+      "customerName": "Customer-85",
+      "customerMobileNumber": "8345441520",
+      "customerId": 85,
+      "amount": 1936.2334
+    },
+    {
+      "rewardPoints": 4597.3316,
+      "customerName": "Customer-34",
+      "customerMobileNumber": "8345444964",
+      "customerId": 34,
+      "amount": 2373.6658
+    },
+    {
+      "rewardPoints": 8081.0332,
+      "customerName": "Customer-36",
+      "customerMobileNumber": "8345444965",
+      "customerId": 36,
+      "amount": 4115.5166
+    },
+    {
+      "rewardPoints": 2926.9214,
+      "customerName": "Customer-81",
+      "customerMobileNumber": "8345446886",
+      "customerId": 81,
+      "amount": 1538.4607
+    },
+    {
+      "rewardPoints": 1156.4834,
+      "customerName": "Customer-74",
+      "customerMobileNumber": "8345448162",
+      "customerId": 74,
+      "amount": 653.2417
+    },
+    {
+      "rewardPoints": 5799.1572,
+      "customerName": "Customer-54",
+      "customerMobileNumber": "8345450259",
+      "customerId": 54,
+      "amount": 2974.5786
+    },
+    {
+      "rewardPoints": 3550.6152,
+      "customerName": "Customer-58",
+      "customerMobileNumber": "8345451293",
+      "customerId": 58,
+      "amount": 1850.3076
+    },
+    {
+      "rewardPoints": 1344.559,
+      "customerName": "Customer-93",
+      "customerMobileNumber": "8345451703",
+      "customerId": 93,
+      "amount": 747.2795
+    },
+    {
+      "rewardPoints": 5147.2496,
+      "customerName": "Customer-76",
+      "customerMobileNumber": "8345451717",
+      "customerId": 76,
+      "amount": 2648.6248
+    },
+    {
+      "rewardPoints": 5895.8366,
+      "customerName": "Customer-61",
+      "customerMobileNumber": "8345452728",
+      "customerId": 61,
+      "amount": 3022.9183
+    },
+    {
+      "rewardPoints": 6583.5518,
+      "customerName": "Customer-25",
+      "customerMobileNumber": "8345452887",
+      "customerId": 25,
+      "amount": 3366.7759
+    },
+    {
+      "rewardPoints": 2990.0176,
+      "customerName": "Customer-27",
+      "customerMobileNumber": "8345454029",
+      "customerId": 27,
+      "amount": 1570.0088
+    },
+    {
+      "rewardPoints": 1971.048,
+      "customerName": "Customer-91",
+      "customerMobileNumber": "8345454379",
+      "customerId": 91,
+      "amount": 1060.524
+    },
+    {
+      "rewardPoints": 6700.3514,
+      "customerName": "Customer-67",
+      "customerMobileNumber": "8345454593",
+      "customerId": 67,
+      "amount": 3425.1757
+    },
+    {
+      "rewardPoints": 936.7944,
+      "customerName": "Customer-80",
+      "customerMobileNumber": "8345457586",
+      "customerId": 80,
+      "amount": 543.3972
+    },
+    {
+      "rewardPoints": 4806.6134,
+      "customerName": "Customer-21",
+      "customerMobileNumber": "8345457950",
+      "customerId": 21,
+      "amount": 2478.3067
+    },
+    {
+      "rewardPoints": 1804.2718,
+      "customerName": "Customer-78",
+      "customerMobileNumber": "8345458423",
+      "customerId": 78,
+      "amount": 977.1359
+    },
+    {
+      "rewardPoints": 4951.3142,
+      "customerName": "Customer-5",
+      "customerMobileNumber": "8345459255",
+      "customerId": 5,
+      "amount": 2550.6571
+    },
+    {
+      "rewardPoints": 98.4038,
+      "customerName": "Customer-97",
+      "customerMobileNumber": "8345461709",
+      "customerId": 97,
+      "amount": 124.2019
+    },
+    {
+      "rewardPoints": 1543.815,
+      "customerName": "Customer-19",
+      "customerMobileNumber": "8345462489",
+      "customerId": 19,
+      "amount": 846.9075
+    },
+    {
+      "rewardPoints": 1389.0354,
+      "customerName": "Customer-86",
+      "customerMobileNumber": "8345466078",
+      "customerId": 86,
+      "amount": 769.5177
+    },
+    {
+      "rewardPoints": 1679.8684,
+      "customerName": "Customer-16",
+      "customerMobileNumber": "8345466795",
+      "customerId": 16,
+      "amount": 914.9342
+    },
+    {
+      "rewardPoints": 2278.5098,
+      "customerName": "Customer-18",
+      "customerMobileNumber": "8345468429",
+      "customerId": 18,
+      "amount": 1214.2549
+    },
+    {
+      "rewardPoints": 2787.915,
+      "customerName": "Customer-73",
+      "customerMobileNumber": "8345470123",
+      "customerId": 73,
+      "amount": 1468.9575
+    },
+    {
+      "rewardPoints": 2884.817,
+      "customerName": "Customer-15",
+      "customerMobileNumber": "8345471974",
+      "customerId": 15,
+      "amount": 1517.4085
+    },
+    {
+      "rewardPoints": 2344.7642,
+      "customerName": "Customer-95",
+      "customerMobileNumber": "8345472704",
+      "customerId": 95,
+      "amount": 1247.3821
+    },
+    {
+      "rewardPoints": 2371.9358,
+      "customerName": "Customer-89",
+      "customerMobileNumber": "8345472716",
+      "customerId": 89,
+      "amount": 1260.9679
+    },
+    {
+      "rewardPoints": 6282.3252,
+      "customerName": "Customer-46",
+      "customerMobileNumber": "8345472791",
+      "customerId": 46,
+      "amount": 3216.1626
+    },
+    {
+      "rewardPoints": 5060.2438,
+      "customerName": "Customer-26",
+      "customerMobileNumber": "8345473486",
+      "customerId": 26,
+      "amount": 2605.1219
+    },
+    {
+      "rewardPoints": 3943.914,
+      "customerName": "Customer-82",
+      "customerMobileNumber": "8345474348",
+      "customerId": 82,
+      "amount": 2046.957
+    },
+    {
+      "rewardPoints": 5229.7536,
+      "customerName": "Customer-32",
+      "customerMobileNumber": "8345476479",
+      "customerId": 32,
+      "amount": 2689.8768
+    },
+    {
+      "rewardPoints": 4868.0608,
+      "customerName": "Customer-92",
+      "customerMobileNumber": "8345476633",
+      "customerId": 92,
+      "amount": 2509.0304
+    },
+    {
+      "rewardPoints": 4125.0774,
+      "customerName": "Customer-49",
+      "customerMobileNumber": "8345477351",
+      "customerId": 49,
+      "amount": 2137.5387
+    },
+    {
+      "rewardPoints": 2618.6948,
+      "customerName": "Customer-84",
+      "customerMobileNumber": "8345479483",
+      "customerId": 84,
+      "amount": 1384.3474
+    },
+    {
+      "rewardPoints": 890.8654,
+      "customerName": "Customer-35",
+      "customerMobileNumber": "8345481173",
+      "customerId": 35,
+      "amount": 520.4327
+    },
+    {
+      "rewardPoints": 2998.2756,
+      "customerName": "Customer-22",
+      "customerMobileNumber": "8345483172",
+      "customerId": 22,
+      "amount": 1574.1378
+    },
+    {
+      "rewardPoints": 3502.193,
+      "customerName": "Customer-43",
+      "customerMobileNumber": "8345483355",
+      "customerId": 43,
+      "amount": 1826.0965
+    },
+    {
+      "rewardPoints": 6776.501,
+      "customerName": "Customer-11",
+      "customerMobileNumber": "8345483922",
+      "customerId": 11,
+      "amount": 3463.2505
+    },
+    {
+      "rewardPoints": 3343.9622,
+      "customerName": "Customer-29",
+      "customerMobileNumber": "8345485256",
+      "customerId": 29,
+      "amount": 1746.9811
+    },
+    {
+      "rewardPoints": 6567.3964,
+      "customerName": "Customer-13",
+      "customerMobileNumber": "8345485666",
+      "customerId": 13,
+      "amount": 3358.6982
+    },
+    {
+      "rewardPoints": 8483.207,
+      "customerName": "Customer-98",
+      "customerMobileNumber": "8345485680",
+      "customerId": 98,
+      "amount": 4316.6035
+    },
+    {
+      "rewardPoints": 5842.3786,
+      "customerName": "Customer-69",
+      "customerMobileNumber": "8345485968",
+      "customerId": 69,
+      "amount": 2996.1893
+    },
+    {
+      "rewardPoints": 5991.5488,
+      "customerName": "Customer-30",
+      "customerMobileNumber": "8345487449",
+      "customerId": 30,
+      "amount": 3070.7744
+    },
+    {
+      "rewardPoints": 3386.5868,
+      "customerName": "Customer-8",
+      "customerMobileNumber": "8345489483",
+      "customerId": 8,
+      "amount": 1768.2934
+    },
+    {
+      "rewardPoints": 4433.3662,
+      "customerName": "Customer-53",
+      "customerMobileNumber": "8345493013",
+      "customerId": 53,
+      "amount": 2291.6831
+    },
+    {
+      "rewardPoints": 634.995,
+      "customerName": "Customer-60",
+      "customerMobileNumber": "8345493361",
+      "customerId": 60,
+      "amount": 392.4975
+    },
+    {
+      "rewardPoints": 3921.2908,
+      "customerName": "Customer-39",
+      "customerMobileNumber": "8345496204",
+      "customerId": 39,
+      "amount": 2035.6454
+    },
+    {
+      "rewardPoints": 780.9874,
+      "customerName": "Customer-71",
+      "customerMobileNumber": "8345496266",
+      "customerId": 71,
+      "amount": 465.4937
+    },
+    {
+      "rewardPoints": 11595.9308,
+      "customerName": "Customer-7",
+      "customerMobileNumber": "8345496963",
+      "customerId": 7,
+      "amount": 5872.9654
+    },
+    {
+      "rewardPoints": 6070.3408,
+      "customerName": "Customer-6",
+      "customerMobileNumber": "8345497607",
+      "customerId": 6,
+      "amount": 3110.1704
+    },
+    {
+      "rewardPoints": 1240.5312,
+      "customerName": "Customer-28",
+      "customerMobileNumber": "8345498244",
+      "customerId": 28,
+      "amount": 695.2656
+    },
+    {
+      "rewardPoints": 5657.6606,
+      "customerName": "Customer-48",
+      "customerMobileNumber": "8345498842",
+      "customerId": 48,
+      "amount": 2903.8303
+    }
+  ],
+  "status": "Success",
+  "errorId": 0,
+  "ruleId": 0,
+  "errorPath": null,
+  "errorSummary": null,
+  "errors": null
+}

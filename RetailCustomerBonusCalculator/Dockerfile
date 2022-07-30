@@ -24,4 +24,4 @@ RUN dotnet publish "RetailCustomerBonusCalculator.csproj" -c Release -o /app/pub
 FROM base AS final
 WORKDIR /app
 COPY --from=publish /app/publish .
-ENTRYPOINT ["dotnet", "RetailCustomerBonusCalculator.dll"]
+ENTRYPOINT ["dotnet", "RetailCustomerBonusCalculatorAPI.dll"]

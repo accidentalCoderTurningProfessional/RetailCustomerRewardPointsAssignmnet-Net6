@@ -29,3 +29,14 @@ which gets rolled over every minute so that can have maximum number of logs for 
 Unit Test project is created as RetailCustomerBonusCalculator.UnitTests. I have written 4 testcases as a part of it.
 To run the testcases please navigate to the testcase folder and run below command
 -----dotnet test RetailCustomerBonusCalculator.UnitTests.csproj
+
+
+PS: The Solution is Containersed. Pls clone the sourcecode and run docker-compose up from the RetailCustomerRewardPointsAssignmnet-Net6\RetailCustomerBonusCalculator folder
+If this doesnt work. Please run with .net6 sdk in vs.
+
+![]("images/AllCustomers-1month.png")
+![]("images/AllCustomers-3months.png")
+![]("images/singlecutomer-1month.png")
+![]("images/singlecutomer-3months.png")
+![]("images/customers-db-data.png")
+![]("images/transactions-db-data.png")
