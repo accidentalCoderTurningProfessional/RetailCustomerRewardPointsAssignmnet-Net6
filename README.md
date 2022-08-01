@@ -14,6 +14,8 @@ It Contains 4 separate projects
 ## Sample DB
 I have put  a DB backup file named **UsersDb.bk** under **SampleDbFiles** folder. 
 
+Also, i have put the sql script **(UsersDbScript)** to produce the required database and corresponding schema and sample datasets. Please take this script and run int ur local server
+
 Please restore it to and pass your local connection string in **AppSettings.Json** file under RetailCustomerBonusCalculator. 
 
 Above mentioned DB contains 2 tables named as **Customers & Transactions**.
